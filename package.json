@@ -1,16 +1,16 @@
 {
-"name": "sways168",
-"theme": "sways168",
-"version": "3.10.1",
-"description": "sways168 ทางเข้าเว็บสล็อตเว็บตรง คนเล่นเยอะ รับโบนัสเครดิตฟรี",
-"keywords": [
-"sways168",
-"sways168 เครดิตฟรี",
-"sways168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/sways168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "sways168",
+  "theme": "sways168",
+  "version": "3.11.0",
+  "description": "sways168 ทางเข้าเว็บสล็อตเว็บตรง คนเล่นเยอะ รับโบนัสเครดิตฟรี",
+  "keywords": [
+    "sways168",
+    "sways168 เครดิตฟรี",
+    "sways168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/sways168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
